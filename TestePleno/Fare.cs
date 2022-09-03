@@ -2,7 +2,7 @@
 
 namespace TestePleno
 {
-    public class Fare
+    public class Fare : IModel
     {
         public Guid Id { get; set; }
         public Guid OperatorId { get; set; }

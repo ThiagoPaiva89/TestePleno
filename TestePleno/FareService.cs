@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace TestePleno
 {
-    public  class FareService
+    public class FareService
     {
         private Repository _repository = new Repository();
 

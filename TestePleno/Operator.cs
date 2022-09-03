@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TestePleno
 {
-    public class Operator
+    public class Operator : IModel
     {
         public Guid Id { get; set; }
         public string Code { get; set; }

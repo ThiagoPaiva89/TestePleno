@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace TestePleno
 {
-    public  class OperatorService
+    public class OperatorService
     {
         public Repository _repository = new Repository();
 
